@@ -1,0 +1,11 @@
+.navbar {
+  border-radius: 0px;
+}
+
+.navbar-brand {
+  font-size: 23px;
+}
+
+.navbar-collapse ul li a {
+  font-size: 17px;
+}
